@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "636697b9025f73b8f12359cb",
+        "destination": "Khulna",
+        "picture": "https://www.obhijaan.com/wp-content/uploads/2021/05/image-5.png",
+        "name": "Shohagh Paribahan"
+    },
+    {
+        "_id": "636697b9241f950f29109c7e",
+        "destination": "Dhaka",
+        "picture": "https://yearlynews.com/wp-content/uploads/2021/06/Green-Line-Paribahan.png",
+        "name": "Green Line Paribahan"
+    },
+    {
+        "_id": "636697b9ad4eec2796758674",
+        "destination": "Chittagong",
+        "picture": "https://porzoton.com/wp-content/uploads/2021/01/Shyamoli-Paribahan-all-ticket-counters-mobile-numbers-1.jpg",
+        "name": "Shyamoli Paribahan"
+    },
+    {
+        "_id": "636697b903bcba8f34c25ff2",
+        "destination": "Barishal",
+        "picture": "https://static.busbd.com.bd/busbdmedia/Bus_2.1517826297",
+        "name": "Saintmartin Hyundai"
+    },
+    {
+        "_id": "636697b988c4a9a15cbf0fb7",
+        "destination": "Sylhet",
+        "picture": "https://www.hanif-enterprise.com/img/busowners/subdomain/hanif-enterprise-khulna/slider-banner/2.png",
+        "name": "Hanif Paribahan"
+    }
+]
